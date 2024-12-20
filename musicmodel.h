@@ -4,7 +4,7 @@
 #include <QStandardItemModel>
 
 
-class MusicModel: public QAbstractItemModel
+class MusicModel: public QStandardItemModel
 {
 
 public:
